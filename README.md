@@ -1,45 +1,50 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome mqsaud,
+Welcome To My First Milestone project
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+# SPICE SHOP
 
-## Gitpod Reminders
+## USER EXPERCISE
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This website is designed to promote the business of Spice Shop.
 
-`python3 -m http.server`
+## Goal of Owner of the website.
+1- Promote its business.  
+2- Tell the customer what he sells and his product range.  
+3- How coustomers can contact him.  
+4- Encourge the customers to give feedback.
 
-A blue button should appear to click: *Make Public*,
+## Customers Attractions
 
-Another blue button should appear to click: *Open Browser*.
+Upon landing a customer on webpage, 
+1- He can nevigate to the all pages of the website easily.  
+2- Easily get informations about his desired product.  
+3- Easily contact the to sale person through a messege, email or on telephone.
+<hr>
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Design  
+#### Color Scheme  
+Multiple colors are sue with white background.
 
-A blue button should appear to click: *Make Public*,
+#### Typography  
+Following fonts are sued  
+1-Sans-serif as a fallback font.  
+2-Cario for main Billboard.
 
-Another blue button should appear to click: *Open Browser*.
+#### Imagery  
+A lovely hero image is diaplayed.
+<hr>
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Technology used
 
-## Updates Since The Instructional Video
+##### Languages
+1-HTML5  
+2-CSS3
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+#### Frameworks, Libraries and Programs 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+[Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)  
+[Google Fonts](https://fonts.google.com/)  
+[Font Awesome](https://fontawesome.com/)  
+[GitHub](https://github.com/)  
+[Gitpod](https://www.gitpod.io/)
