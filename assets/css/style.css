@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
+
+/* --HEADER--START-------------------------------------------------------------------------------------- */
+
+.logo{
+    text-align: center;
+}
+
+h1{
+    font-size: 4rem;
+    color: black;
+    text-align: center;
+    font-weight: 300;
+}
+h6{
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: black;
+}
+.capital{
+    text-transform: uppercase;
+}
+.italic{
+    font-style: italic;
+}
+.font-type{
+    font-family: 'Cairo', sans-serif;
+}
+.menu-item{
+    height: 120px;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.li-home-color{
+    background-color: lavender;
+    margin: 0;
+}
+.li-about-color{
+    background-color: lightgreen;
+}
+.li-contact-color{
+    background-color: gold;
+    margin: 0;
+}
+.list-inline-item:not(:last-child) {
+    margin-right: 0;
+}
+#nav{
+    font-size: 0;
+    margin: 0;
+}
+
+.menu-item .menu-link{
+    font-size: 1.5rem;
+}
+
+ul li i{
+    font-size: 1.5rem;
+}
+
+.row {
+    --bs-gutter-x: 0;
+}
