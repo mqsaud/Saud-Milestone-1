@@ -35,14 +35,14 @@ h6{
 }
 
 .li-home-color{
-    background-color: lavender;
+    background-color: rgb(122, 47, 151);
     margin: 0;
 }
 .li-about-color{
-    background-color: lightgreen;
+    background-color: rgb(43, 116, 43);
 }
 .li-contact-color{
-    background-color: gold;
+    background-color: rgb(145, 128, 36);
     margin: 0;
 }
 .list-inline-item:not(:last-child) {
@@ -55,16 +55,154 @@ h6{
 
 .menu-item .menu-link{
     font-size: 24px;
+    
 }
 
 ul li i{
     font-size: 24px;
+
 }
 
 .row {
     --bs-gutter-x: 0;
 }
-.fa:hover , a:hover, menu-link:hover{
-            color: red;
-            
+.fa:hover , a:hover, menu-link:hover, .fab:hover {
+            color: rgb(255, 77, 23)          
+}
+
+.fab {
+    color: ghostwhite;
+}
+/* media screen billboard */
+@media screen and (max-width:500px){
+    h1{font-size: 3rem;
+        font-weight: 400;
+    }
+    h6{ font-size: 1rem;}
+    .menu-item{
+    height: 80px;
+    text-align: center;
+    padding-top: 20px;
+}
+}
+
+@media screen and (max-width:350px){
+    h1{font-size: 2rem;
+    font-weight: 400;
+    }
+    h6{ font-size: 0.8rem;}
+}
+
+/* --HEADER--END------------------------------------------------------------------ */
+
+/* ====Main Srart================================================================= */
+.billboard img{
+    width: 100%;
+    object-fit: fill;
+}
+
+/* ++ FOOTER++START+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+
+/* ~~Social Midia Links~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+.foot-wrapper{
+    margin: 0;
+    font-size: 0;
+    
+}
+.foot-wrapper p ,.foot-wrapper a{
+    font-size: 1.2rem;
+}
+.socialme{
+    display: flex;
+    justify-content: center ;
+}
+.social-links{
+    display: flex;
+    letter-spacing: 10px; 
+}
+.social-links li{
+    list-style-type: none;
+}
+
+.foot-wrapper .socialme a{
+    text-decoration: none;
+}
+.ft-color   {
+    color: ghostwhite;
+    background-color: #555555;
+    text-align: center;
+    padding: 20px 5px;
+
+}
+.aboutme>p , .contactme>p , .copyright>p, .socialme>ul{
+    margin: 0;
+}
+
+.lt-space{
+    letter-spacing: 2px;
+}
+
+a{
+    color: ghostwhite;
+}
+  
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Social~media~Screens~~ */
+
+@media screen and (max-width:767px){
+    .aboutme , .contactme , .socialme ,.copyright{
+        border:2px solid white ;
+    }
+}
+
+@media screen and (min-width:768px){
+    .foot-wrapper{
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 9vh 9vh ;
+    }
+    .aboutme{
+        grid-column: 1/2;
+        grid-row: 1/2;
+    }
+    .contactme{
+        grid-column: 2 /3;
+        grid-row: 1/2;
+    }
+    .socialme{ 
+        grid-column:2/3;
+        grid-row: 2/3;
+    }
+    .copyright{
+         grid-column:1/2;
+        grid-row:2/3;
+    }
+    .aboutme , .contactme , .socialme ,.copyright{
+        border:2px solid white ;
+    }
+}
+
+@media screen and (min-width:992px){
+    .foot-wrapper{
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+        grid-template-rows: 10vh 10vh 10vh 10vh;
+    }
+    .aboutme{
+        grid-column: 1/2;
+        grid-row: 1/2;
+    }
+    .contactme{
+        grid-column: 2 /3;
+        grid-row: 1/2;
+    }
+    .socialme{ 
+        grid-column:3/4;
+        grid-row: 1/2;
+    }
+    .copyright{
+         grid-column:4/5;
+        grid-row:1/2;
+    }
 }
