@@ -147,62 +147,8 @@ a{
     color: ghostwhite;
 }
   
-
 /* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Social~media~Screens~~ */
 
-@media screen and (max-width:767px){
     .aboutme , .contactme , .socialme ,.copyright{
-        border:2px solid white ;
+        border:1px solid white ;
     }
-}
-
-@media screen and (min-width:768px){
-    .foot-wrapper{
-        display: grid;
-        grid-template-columns: 50% 50%;
-        grid-template-rows: 9vh 9vh ;
-    }
-    .aboutme{
-        grid-column: 1/2;
-        grid-row: 1/2;
-    }
-    .contactme{
-        grid-column: 2 /3;
-        grid-row: 1/2;
-    }
-    .socialme{ 
-        grid-column:2/3;
-        grid-row: 2/3;
-    }
-    .copyright{
-         grid-column:1/2;
-        grid-row:2/3;
-    }
-    .aboutme , .contactme , .socialme ,.copyright{
-        border:2px solid white ;
-    }
-}
-
-@media screen and (min-width:992px){
-    .foot-wrapper{
-        display: grid;
-        grid-template-columns: 25% 25% 25% 25%;
-        grid-template-rows: 10vh 10vh 10vh 10vh;
-    }
-    .aboutme{
-        grid-column: 1/2;
-        grid-row: 1/2;
-    }
-    .contactme{
-        grid-column: 2 /3;
-        grid-row: 1/2;
-    }
-    .socialme{ 
-        grid-column:3/4;
-        grid-row: 1/2;
-    }
-    .copyright{
-         grid-column:4/5;
-        grid-row:1/2;
-    }
-}
