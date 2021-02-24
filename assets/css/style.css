@@ -67,7 +67,7 @@ ul li i{
     --bs-gutter-x: 0;
 }
 .fa:hover , a:hover, menu-link:hover, .fab:hover {
-            color: rgb(255, 77, 23)          
+            color: tomato;         
 }
 
 .fab {
@@ -98,7 +98,7 @@ ul li i{
 /* ====Main Srart================================================================= */
 .billboard img{
     width: 100%;
-    object-fit: fill;
+    /* object-fit: fill; */
 }
 
 /* ++ FOOTER++START+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
@@ -129,21 +129,26 @@ li a .fab{
 }
 
 .fab:hover{
-    color: red;
+    color:tomato;
     font-size: 26px;
+}
+.foot-wrapper h5{
+      color: whitesmoke;
+}
+.foot-wrapper h5:hover{
+    color:tomato;
 }
 /* --About.html--Start----------------------------------------------------------------------------- */
 .about-pg{
     width: 100%;
-    height: 500px;
     position: relative;
-    overflow: hidden;
-    border: 3px dashed greenyellow;
+    overflow: auto;
+    /* border: 3px dashed greenyellow; */
 }
 
 .about-pg p {
     color: blue;
-    padding: 30px 100px;
+    padding: 15px 15px;
     position: relative;
     z-index: 1;
     text-align: justify;
@@ -151,7 +156,7 @@ li a .fab{
 }
 .about-pg h5{
     position: relative;
-    padding: 0 100px 100px 100px;
+    padding: 0 10px 10px 10px;
     z-index: 1;
     text-align: center;
 }
@@ -162,6 +167,17 @@ li a .fab{
     width: 100%;
     opacity: 0.1;
 }
+@media  screen and (min-width:721px){
+    .about-pg p{
+        padding: 30px 150px;
+    }
+    .about-pg h5{
+        padding: 0 150px 50px 150px;
+    }
+}
+
+
+
 
 /* --About.html--Ends------------------------------------------------------------------------------ */
 
