@@ -102,53 +102,66 @@ ul li i{
 }
 
 /* ++ FOOTER++START+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
-
-
-/* ~~Social Midia Links~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+footer{
+    margin: 0;
+    font-family:cario , sans-serif ;
+}
 .foot-wrapper{
-    margin: 0;
-    font-size: 0;
-    
+    padding: 8px;
+    background-color: #9f9f9f;
 }
-.foot-wrapper p ,.foot-wrapper a{
-    font-size: 1.2rem;
-}
-.socialme{
-    display: flex;
-    justify-content: center ;
-}
-.social-links{
-    display: flex;
-    letter-spacing: 10px; 
-}
-.social-links li{
-    list-style-type: none;
-}
-
-.foot-wrapper .socialme a{
-    text-decoration: none;
-}
-.ft-color   {
-    color: ghostwhite;
+.ft-color{
     background-color: #555555;
-    text-align: center;
-    padding: 20px 5px;
-
-}
-.aboutme>p , .contactme>p , .copyright>p, .socialme>ul{
-    margin: 0;
-}
-
-.lt-space{
+    color: whitesmoke;
+    padding-top:10px;
+    border: 1px solid whitesmoke;
     letter-spacing: 2px;
 }
-
-a{
-    color: ghostwhite;
+ .fab{
+    font-size: 25px;
+    line-height: 10px;
+    text-align: center;
+    color: whitesmoke; 
+    
 }
-  
-/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Social~media~Screens~~ */
+li a .fab{
+    letter-spacing: 20px;
+}
 
-    .aboutme , .contactme , .socialme ,.copyright{
-        border:1px solid white ;
-    }
+.fab:hover{
+    color: red;
+    font-size: 26px;
+}
+/* --About.html--Start----------------------------------------------------------------------------- */
+.about-pg{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    border: 3px dashed greenyellow;
+}
+
+.about-pg p {
+    color: blue;
+    padding: 30px 100px;
+    position: relative;
+    z-index: 1;
+    text-align: justify;
+    font-weight: 600;
+}
+.about-pg h5{
+    position: relative;
+    padding: 0 100px 100px 100px;
+    z-index: 1;
+    text-align: center;
+}
+.about-pg img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    opacity: 0.1;
+}
+
+/* --About.html--Ends------------------------------------------------------------------------------ */
+
