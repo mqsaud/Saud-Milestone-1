@@ -1,10 +1,46 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
 
-/* --HEADER--START-------------------------------------------------------------------------------------- */
-
-.logo{
-    text-align: center;
+/* --HEADER--START---------------------------------------------------------- */
+.shoplogo p{
+    font-family: oswald, sans-serif;
+    font-size: 30px;
+    background-color: #555555;
+    color: whitesmoke;
+    padding-left:30px ;
+    line-height: 3rem;
+    margin: 0;
 }
+.no-margin{
+    margin: 0;
+    padding: 0;
+}
+
+.capital{
+    text-transform: uppercase;
+}
+.ltr-space{
+    letter-spacing: 4px;
+}
+nav ul{
+    margin: 0;
+    text-align: right;
+    background-color: #555555;
+    line-height: 3rem;
+    padding-right: 30px;
+    
+}
+
+nav ul li a{
+    color: whitesmoke;
+}
+nav ul li a:hover{
+    color: tomato;
+}
+
+.nav-border{
+    border: 10px solid #9f9f9f;
+}
+
 
 h1{
     font-size: 4rem;
@@ -12,96 +48,20 @@ h1{
     text-align: center;
     font-weight: 300;
 }
-h6{
-    font-weight: 400;
-    font-size: 20px;
-    padding-bottom: 10px;
-    text-align: center;
-    color: black;
-}
+
 .capital{
     text-transform: uppercase;
 }
-.italic{
-    font-style: italic;
-}
-.font-type{
-    font-family: 'Cairo', sans-serif;
-}
-.menu-item{
-    height: 120px;
-    text-align: center;
-    padding-top: 40px;
-}
 
-.li-home-color{
-    background-color: rgb(122, 47, 151);
-    margin: 0;
-}
-.li-about-color{
-    background-color: rgb(43, 116, 43);
-}
-.li-contact-color{
-    background-color: rgb(145, 128, 36);
-    margin: 0;
-}
-.list-inline-item:not(:last-child) {
-    margin-right: 0;
-}
-#nav{
-    font-size: 0;
-    margin: 0;
-}
+/* --HEADER--END---------------------------------------------------------------- */
 
-.menu-item .menu-link{
-    font-size: 24px;
-    
-}
-
-ul li i{
-    font-size: 24px;
-
-}
-
-.row {
-    --bs-gutter-x: 0;
-}
-.fa:hover , a:hover, menu-link:hover, .fab:hover {
-            color: tomato;         
-}
-
-.fab {
-    color: ghostwhite;
-}
-/* media screen billboard */
-@media screen and (max-width:500px){
-    h1{font-size: 3rem;
-        font-weight: 400;
-    }
-    h6{ font-size: 1rem;}
-    .menu-item{
-    height: 80px;
-    text-align: center;
-    padding-top: 20px;
-}
-}
-
-@media screen and (max-width:350px){
-    h1{font-size: 2rem;
-    font-weight: 400;
-    }
-    h6{ font-size: 0.8rem;}
-}
-
-/* --HEADER--END------------------------------------------------------------------ */
-
-/* ====Main Srart================================================================= */
+/* =Main Srart================================================================= */
 .billboard img{
     width: 100%;
     /* object-fit: fill; */
 }
 
-/* ++ FOOTER++START+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+/* ++ FOOTER++START++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 footer{
     margin: 0;
     font-family:cairo , sans-serif ;
@@ -121,6 +81,7 @@ footer{
     font-size: 25px;
     line-height: 10px;
     text-align: center;
+    color: whitesmoke;
 }
 li a .fab{
     letter-spacing: 20px;
@@ -136,7 +97,7 @@ li a .fab{
 .foot-wrapper h5:hover{
     color:tomato;
 }
-/* --About.html--Start----------------------------------------------------------------------------- */
+/* --About.html--Start---------------------------------------------------------- */
 .about-pg{
     width: 100%;
     position: relative;
@@ -174,9 +135,9 @@ li a .fab{
     }
 }
 
-/* --About.html--Ends------------------------------------------------------------------------------ */
+/* --About.html--Ends----------------------------------------------------------- */
 
-/* ===Contact Info-Start=========================================================================== */
+/* Contact Info-Start======================================================== */
 .contact-border{
     border: 1px solid lavender;
 }
@@ -222,8 +183,8 @@ li a .fab{
 }
 
 
-/* ===Contact Info - End=========================================================================== */
- /* --feedback form Start-------------------------------------------------------------------------- */
+/* ===Contact Info End====================================================== */
+ /* --feedback form Start------------------------------------------------- */
 
  .feedback-form{
      margin-left:  15%;
@@ -247,8 +208,8 @@ li a .fab{
  }
 
 
- /* --feedback form End---------------------------------------------------------------------------- */
- /* --Home Page Pics Start------------------------------------------------------------------------- */
+ /* --feedback form End------------------------------------------------------------------------- */
+ /* --Home Page Pics Start--------------------------------------------- */
   .home-pics img{
       width: 100%;
   }
