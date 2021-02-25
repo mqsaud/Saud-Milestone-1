@@ -121,8 +121,6 @@ footer{
     font-size: 25px;
     line-height: 10px;
     text-align: center;
-    color: whitesmoke; 
-    
 }
 li a .fab{
     letter-spacing: 20px;
@@ -179,6 +177,9 @@ li a .fab{
 /* --About.html--Ends------------------------------------------------------------------------------ */
 
 /* ===Contact Info-Start=========================================================================== */
+.contact-border{
+    border: 1px solid lavender;
+}
 .contact-info{
     font-family: cairo, sans-serif;
     font-size: 28px;
@@ -209,13 +210,93 @@ li a .fab{
     width: 30%;
     margin-right: 20px;
     vertical-align: top;
+    clear: both;
 }
 .contact-info-item .info-data{
     width: 50%;
 }
 .contact-info-heading{
-    margin:0 30px;
+    margin:0 5%;
+    padding-left: 10%;
+    
 }
 
 
 /* ===Contact Info - End=========================================================================== */
+ /* --feedback form Start-------------------------------------------------------------------------- */
+
+ .feedback-form{
+     margin-left:  15%;
+     margin-right: 5%;
+     clear: both;
+     width: 75%;
+ }
+ .feedback-form h6{
+     font-family: cairo, sans-serif;
+     padding-top: 40px;
+ }
+
+ .feedback-form input,
+ .feedback-form textarea{
+     width: 100%;
+     clear: both;
+     margin-bottom: 10px;
+ }
+ .feedback-form label{
+     margin: 0;
+ }
+
+
+ /* --feedback form End---------------------------------------------------------------------------- */
+ /* --Home Page Pics Start------------------------------------------------------------------------- */
+  .home-pics img{
+      width: 100%;
+  }
+  .sub-pg-links {
+      text-decoration: none;
+      text-align: center;
+      background-color: #555555;
+      border: 2px solid #9f9f9f;
+  }
+  .sub-pg-links a {
+      color: whitesmoke;
+      font-size: x-large;
+      font-family: cairo, sans-serif;
+  }
+  .sub-pg-links a:hover{
+      color: tomato;
+      }
+      .intro{
+          background-color: #555555;
+          color: whitesmoke;
+         
+      }
+      .intro-set{
+          padding:50px 30px;
+          text-align: center;
+           border:10px solid #9f9f9f;
+        
+      }
+      .intro-set h1{
+          font-family: cairo, sans-serif;
+          font-weight: 3
+          
+          
+          
+          
+          00;
+          color: whitesmoke;
+      }
+      .intro-set p{
+          font-size: 20px;
+          font-family: cairo, sans-serif;
+          color: whitesmoke;
+      }
+      .img-border{
+          border:10px solid #9f9f9f;
+
+      }
+
+     
+ /* --Home Page PicsEnd------------------------------------------------------ */
+ 
