@@ -104,7 +104,7 @@ ul li i{
 /* ++ FOOTER++START+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 footer{
     margin: 0;
-    font-family:cario , sans-serif ;
+    font-family:cairo , sans-serif ;
 }
 .foot-wrapper{
     padding: 8px;
@@ -176,8 +176,46 @@ li a .fab{
     }
 }
 
-
-
-
 /* --About.html--Ends------------------------------------------------------------------------------ */
 
+/* ===Contact Info-Start=========================================================================== */
+.contact-info{
+    font-family: cairo, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    text-align: left;
+    padding-top: 40px;
+}
+.contact-info-item .info-name h3{
+    font-family: cairo, sans-serif;
+}
+
+.contact-info-item{
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+.contact-info-item .info-name,
+.contact-info-item .info-data{
+    display: inline-block;
+    padding-right: 8px;
+}
+.contact-info-item .info-name p,
+.contact-info-item .info-data p{
+    margin: 0;
+}
+
+.contact-info-item .info-name{
+    width: 30%;
+    margin-right: 20px;
+    vertical-align: top;
+}
+.contact-info-item .info-data{
+    width: 50%;
+}
+.contact-info-heading{
+    margin:0 30px;
+}
+
+
+/* ===Contact Info - End=========================================================================== */
