@@ -98,7 +98,8 @@ li a .fab{
 .foot-wrapper h5{
       color: whitesmoke;
 }
-.foot-wrapper h5:hover{
+.foot-wrapper h5:hover,
+.foot-wrapper a{
     color:tomato;
 }
 /* --About.html--Start---------------------------------------------------------- */
@@ -184,6 +185,12 @@ li a .fab{
     margin:0 5%;
     padding-left: 10%;
     
+}
+button[type="submit"]{
+    margin-bottom: 25px;
+    margin-top: 0;
+    border-radius: 25%;
+    background-color: tomato;
 }
 
 
