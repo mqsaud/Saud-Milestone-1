@@ -1,47 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
 
 /* --HEADER--START---------------------------------------------------------- */
-.shoplogo p{
-    font-family: cairo, sans-serif;
-    font-size: 30px;
-    background-color: #555555;
-    color: whitesmoke;
-    padding-left:30px ;
-    line-height: 3rem;
-    margin: 0;
-}
-.no-margin{
-    margin: 0;
-    padding: 0;
-}
 
+nav{
+    border: 10px solid #9f9f9f;
+}
+nav .navbar-brand{
+    font-family: cairo, sans-serif;
+}
 .capital{
     text-transform: uppercase;
 }
 .ltr-space{
     letter-spacing: 4px;
 }
-nav ul{
-    margin: 0;
-    text-align: right;
-    background-color: #555555;
-    line-height: 3rem;
-    padding-right: 30px;
-    
-}
-
-nav ul li a{
-    color: whitesmoke;
+.navbar-set {
+    font-family: cairo, sans-serif;
+    font-size: 24px;
     letter-spacing: 1px;
-}
-nav ul li a:hover{
-    color: tomato;
-}
-
-.nav-border{
-    border: 10px solid #9f9f9f;
+    background-color: #555555;
+    color: whitesmoke;
+    padding-left:30px ;
+    line-height: 3rem;
+    margin: 0;
 }
 
+.shoplogo{
+    font-size: 42px;
+}
 
 h1{
     font-size: 4rem;
@@ -54,7 +40,7 @@ h1{
     text-transform: uppercase;
 }
 
-/* --HEADER--END---------------------------------------------------------------- */
+/* --HEADER--END------------------------------------------------------------- */
 
 /* =Hero Image====and banner pics============================================ */
 .billboard img{
