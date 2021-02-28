@@ -3,7 +3,7 @@
 Welcome To My First Milestone project
 
 # [SPICE SHOP](https://mqsaud.github.io/Saud-Milestone-1/)
-  [](assets/images/spice shop screenshot.jpg)
+  
 
 ## USER EXPERCISE
 
@@ -30,10 +30,10 @@ Multiple colors are sue with white background.
 #### Typography  
 Following fonts are sued  
 1-Sans-serif as a fallback font.  
-2-Cario for main Billboard.
+2-Cario for main hedings.
 
 #### Imagery  
-A lovely hero image is diaplayed.
+Many images are used.
 <hr>
 
 ## Technology used

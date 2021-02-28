@@ -269,9 +269,9 @@ button[type="submit"]{
      
  }
 
- .offer h1{
+ .offer h2{
      margin: 0;
-     color: rgb(5, 7, 128);
+     color: rgb(10, 12, 136);
      padding: 20px 50px 20px 50px;
      font-weight: 100;
      font-style: italic;
