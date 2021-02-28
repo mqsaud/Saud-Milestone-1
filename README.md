@@ -49,3 +49,21 @@ Many images are used.
 [Font Awesome](https://fontawesome.com/)  
 [GitHub](https://github.com/)  
 [Gitpod](https://www.gitpod.io/)
+
+### Test and vaidation 
+All html file are validated with no errors by W3C vaidation service. 
+css file validated with no errors by using Jig saw validation service.
+
+website is tested on Chrom. firefox and Edge browser.
+
+### Contents 
+All cotents are written by me. 
+ 
+### Media 
+All pictures are taken from internet. 
+ 
+
+### Acknowledgment
+My mentor for his support and feedback. 
+code Institute tutor support
+
