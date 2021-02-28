@@ -45,7 +45,6 @@ h1{
 /* =Hero Image====and banner pics============================================ */
 .billboard img{
     width: 100%;
-    /* object-fit: fill; */
 }
 .bnr-pic-bg{
     background-color: #9f9f9f;
@@ -233,16 +232,10 @@ button[type="submit"]{
           padding:50px 30px;
           text-align: center;
            border:10px solid #9f9f9f;
-        
       }
       .intro-set h1{
           font-family: cairo, sans-serif;
-          font-weight: 3
-          
-          
-          
-          
-          00;
+          font-weight: 300;
           color: whitesmoke;
       }
       .intro-set p{
@@ -252,7 +245,6 @@ button[type="submit"]{
       }
       .img-border{
           border:10px solid #9f9f9f;
-
       }
 
      
@@ -268,3 +260,19 @@ button[type="submit"]{
      text-align: center;
  }
  
+ .offer{
+     font-family: cairo,sans-serif;
+     text-align: center;
+     border-bottom: 20px solid #555555;
+     background-color: gainsboro;
+     width: 100%;
+     
+ }
+
+ .offer h1{
+     margin: 0;
+     color: rgb(5, 7, 128);
+     padding: 20px 50px 20px 50px;
+     font-weight: 100;
+     font-style: italic;
+ }
