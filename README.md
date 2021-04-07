@@ -48,7 +48,7 @@ Following fonts are sued
 2-Cario for main hedings.
 
 #### Imagery  
-Many images are used.
+A picture is worth than  thousand words. The website is furnished with many beautiful images specialy the hero image. All the product pages are furnished with many eye catching images relating to product-page
 <hr>
 
 ## Technology used
