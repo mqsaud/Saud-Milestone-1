@@ -48,7 +48,10 @@ Following fonts are sued
 2-Cario for main hedings.
 
 #### Imagery  
-A picture is worth than  thousand words. The website is furnished with many beautiful images specialy the hero image. All the product pages are furnished with many eye catching images relating to product-page
+A picture is worth than  thousand words. The website is furnished with many beautiful images specialy the hero image. All the product pages are furnished with many eye catching images related to product-page
+
+#### Wirefarme
+ To view wirefarme please click [here](https://github.com/mqsaud/Saud-Milestone-1)
 <hr>
 
 ## Technology used
