@@ -5,7 +5,7 @@ Welcome To My First Milestone project
 # [SPICE SHOP](https://mqsaud.github.io/Saud-Milestone-1/)
   
 
-## USER EXPERCISE
+## USER EXPERIENCE
 
 This website is designed to promote the business of Spice Shop.
 
