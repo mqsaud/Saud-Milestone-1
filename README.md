@@ -3,6 +3,7 @@
 Welcome To My First Milestone project
 
 # [SPICE SHOP](https://mqsaud.github.io/Saud-Milestone-1/)
+<img src="assets/images/test/SpiceShop.jpg">
   
 
 ## USER EXPERIENCE
