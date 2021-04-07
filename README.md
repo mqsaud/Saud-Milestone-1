@@ -22,6 +22,20 @@ Upon landing a customer on webpage,
 1- He can nevigate to the all pages of the website easily.  
 2- Easily get informations about his/her desired product.  
 3- Easily contact the to sale person through a messege, email or on telephone.
+
+### User Stories 
+  #### First Time Visitor Goal    
+    a- As a first time visiter, I want to know what products are sold here.
+    b- I want to be able to easily navigate around the different pages.
+    c- I want to find the social media links to find out the reputation and fan following of the website.
+
+  #### Returning Visitor Goal  
+      a- As a returning visitor, I want to get more details about the product range and services.
+      b- Is there any special offer?
+
+  #### Frequent User Goal
+       a- As a Frequent user, I want to know the upcoming sale and special offers.
+       b- I want to know what product has newly arrived and what are thier prices.    
 <hr>
 
 ## Design  
