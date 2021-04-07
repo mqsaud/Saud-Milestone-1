@@ -286,7 +286,7 @@ button[type="submit"]{
      width: 100%;
  }
 
- .special-offer h2,.offer h2:hover{
+ .special-offer h2:hover ,.offer h2:hover{
      background-color:greenyellow;
      color:red;
      font-weight:500;
