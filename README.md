@@ -45,11 +45,21 @@ Many images are used.
 
 #### Frameworks, Libraries and Programs 
 
-[Bootstrap 4.6](https://getbootstrap.com/docs/4.6/getting-started/introduction/)  
-[Google Fonts](https://fonts.google.com/)  
-[Font Awesome](https://fontawesome.com/)  
-[GitHub](https://github.com/)  
-[Gitpod](https://www.gitpod.io/)
+1. [Bootstrap 4.6:](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
+    - Bootstrap was used to make the website responsive and stylish.  
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq software was used to create the wirefarme images .
+1. [Google Fonts:](https://fonts.google.com/)
+    - From Google fonts Cario font was imported in style.css file.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used to download social media icons.
+1. [Git](https://gitpod.io/)
+    - Gitpod was used for version control by using the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub plateform is used to store the project.
+1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+    - Adobe Photoshop was used to resize and edit the images for the website.
+
 
 ### Test and vaidation 
 All html file are validated with no errors by W3C vaidation service. 
