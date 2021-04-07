@@ -17,7 +17,7 @@ This website is designed to promote the business of Spice Shop.
 
 ## Customers Attractions
 
-Upon landing a customer on webpage, 
+Upon landing a customer on webpage,  
 1- He can nevigate to the all pages of the website easily.  
 2- Easily get informations about his desired product.  
 3- Easily contact the to sale person through a messege, email or on telephone.
