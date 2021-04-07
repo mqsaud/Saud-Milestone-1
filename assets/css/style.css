@@ -270,10 +270,24 @@ button[type="submit"]{
      
  }
 
- .offer h2{
+ .offer h2,.special-offer h2{
      margin: 0;
      color: rgb(10, 12, 136);
      padding: 20px 50px 20px 50px;
      font-weight: 100;
      font-style: italic;
+ }
+
+ .special-offer{
+      font-family: cairo,sans-serif;
+     text-align: center;
+     border: 10px solid #9f9f9f;
+     background-color: gainsboro;
+     width: 100%;
+ }
+
+ .special-offer h2,.offer h2:hover{
+     background-color:greenyellow;
+     color:red;
+     font-weight:500;
  }
