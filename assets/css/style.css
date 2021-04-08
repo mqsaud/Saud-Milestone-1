@@ -281,12 +281,15 @@ button[type="submit"]{
  .special-offer{
       font-family: cairo,sans-serif;
      text-align: center;
-     border: 10px solid #9f9f9f;
+     border-right:10px;
+     border-left:10px;
+     border-style:solid;
+     border-color:#9f9f9f;
      background-color: gainsboro;
      width: 100%;
  }
 
- .special-offer h2:hover ,.offer h2:hover{
+ .special-offer h2:hover,.offer h2:hover{
      background-color:greenyellow;
      color:red;
      font-weight:500;
