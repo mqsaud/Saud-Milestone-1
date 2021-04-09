@@ -12,7 +12,7 @@ This website is designed to promote the business of Spice Shop.
 
 ## Goal of Owner of the website.
 1- Promote its business.  
-2- Tell the customer what he sells and his product range.  
+2- Tell the customer what he/she sells and his product range.  
 3- How coustomers can contact him.  
 4- Encourge the customers to give feedback.
 
@@ -25,8 +25,8 @@ Upon landing a customer on webpage,
 
 ### User Stories 
   #### First Time Visitor Goal    
-    a- As a first time visiter, I want to know what products are sold here.
-    b- I want to be able to easily navigate around the different pages.
+    a- As a first time visitor, I want to know what products are sold here.
+    b- I want to be able to navigate around the different pages easily.
     c- I want to find the social media links to find out the reputation and fan following of the website.
 
   #### Returning Visitor Goal  
@@ -35,7 +35,7 @@ Upon landing a customer on webpage,
 
   #### Frequent User Goal
        a- As a Frequent user, I want to know the upcoming sale and special offers.
-       b- I want to know what product has newly arrived and what are thier prices.    
+       b- I want to know what product has newly arrived and what are their prices.    
 <hr>
 
 ## Design  
@@ -79,10 +79,52 @@ A picture is worth than  thousand words. The website is furnished with many beau
 
 
 ### Test and vaidation 
-All html file are validated with no errors by W3C vaidation service. 
+All html file are validated with no errors by W3C vaidation service.  
+
+During testing some has failed validation test.
+<img src="assets/images/test/val-fail.jpg">  
+After resolving the cause of validation failure, all file passed the validation test.
+<img src="assets/images/test/val-pass.jpg">
 css file validated with no errors by using Jig saw validation service.
 
-website is tested on Chrom. firefox and Edge browser.
+#### Testing User Stories from User Experience Section
+- ##### First-time visitor Goal 
+  * ###### a- As a first time visitor, I want to know what products are sold here.   
+        1- When a user land on the website, a beautiful hero image welcomes the user.     
+           Since the hero image is covered with spices, so user can easily understand 
+           spices are sold here.  
+        2- Below the hero image there are four more images that tell the user   
+           fresh fruit and vegetables, frozen food and dry and packed food 
+           is also sold here.
+  * ###### b- I want to be able to navigate around the different pages easily.
+        1- On the top landing page, there is a navigation bar that makes it easy to navigate around all the pages.
+        2- The link the of active page become highlighted.  
+  * ######  c- I want to find the social media links to find out the reputation and fan following               of the website.
+        1- The social media link icons are available on the footer.
+        2- when a user clicks on an icon, the related social media page opens in a new tab.  
+
+- ##### Returning Visitor Goal
+  * ######  a- As a returning visitor, I want to get more details about the product range and                 services.  
+        1- There are four product pages. By visiting these pages, the user knows the product range. 
+        2- In the welcome paragraph on landing page the shop offers a service to arrange the customer's desired spice if that spice is not available in Shop.  
+  * ###### b- Is there any special offer?
+         On every product page, information about the current offers are available.
+- #### Frequent User Goal
+  * ###### a- As a Frequent user, I want to know the upcoming sale and special offers.
+         On the home page, information about upcoming special offers is available.
+  * ###### b- I want to know what product has newly arrived and what are their prices. 
+          On every product page, the newly arrived items are highlighted with the price.         
+
+- ##### The Website is tested on following browsers Phone sets.
+      Chrom. firefox, Edge and SeaMonkey
+      Samsung A70, Nokia 7Plus, Huawei p30 lite and LG lg3.
+
+- ##### Known Bugs
+       1- On the home page and on all the product pages. The product link headings 
+          (over the footer bar) are not properly aligned.
+       2- Some time on 4K monitor, if the browser window is not fully opned, 
+          then a white space below the footer bar can be seen.       
+
 
 ### Contents 
 All cotents are written by me. 
