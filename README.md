@@ -24,23 +24,22 @@ Upon landing a customer on webpage,
 3- Easily contact the to sale person through a messege, email or on telephone.
 
 ### User Stories 
-  #### First Time Visitor Goal    
-    a- As a first time visitor, I want to know what products are sold here.
-    b- I want to be able to navigate around the different pages easily.
-    c- I want to find the social media links to find out the reputation and fan following of the website.
-
-  #### Returning Visitor Goal  
-      a- As a returning visitor, I want to get more details about the product range and services.
-      b- Is there any special offer?
-
-  #### Frequent User Goal
-       a- As a Frequent user, I want to know the upcoming sale and special offers.
-       b- I want to know what product has newly arrived and what are their prices.    
+#### First Time Visitor Goal    
+a -  As a first time visitor, I want to know what products are sold here.  
+b - I want to be able to navigate around the different pages easily.  
+c - I want to find the social media links to find out the reputation and fan following of the website.
+#### Returning Visitor Goal  
+a - As a returning visitor, I want to get more details about the product range and services.  
+b - Is there any special offer?
+#### Frequent User Goal
+a - As a Frequent user, I want to know the upcoming sale and special offers.  
+b - I want to know what product has newly arrived and what are their prices.     
 <hr>
 
 ## Design  
 #### Color Scheme  
-Multiple colors are used with white background.
+Following colors are used.  
+<img src="assets/images/test/colors.jpg">
 
 #### Typography  
 Following fonts are used.  
@@ -87,52 +86,47 @@ After resolving the cause of validation failure, all files passed the validation
 <img src="assets/images/test/val-pass.jpg">
 css file validated with no errors by using Jig saw validation service.
 
-#### Testing User Stories from User Experience Section
-- ##### First-time visitor Goal 
-  * ###### a- As a first time visitor, I want to know what products are sold here.   
-        1- When a user land on the website, a beautiful hero image welcomes the user.     
-           Since the hero image is covered with spices, so user can easily understand 
-           spices are sold here.  
-        2- Below the hero image there are four more images that tell the user   
-           fresh fruit and vegetables, frozen food and dry and packed food 
-           is also sold here.
-  * ###### b- I want to be able to navigate around the different pages easily.
-        1- On the top landing page, there is a navigation bar that makes it easy to navigate   around all the pages.
-        2- The link the of active page become highlighted.  
-  * ######  c- I want to find the social media links to find out the reputation and fan following               of the website.
-        1- The social media link icons are available on the footer.
-        2- when a user clicks on an icon, the related social media page opens in a new tab.  
+### Testing User Stories from User Experience Section
+##### First-time visitor Goal 
+##### a- As a first time visitor, I want to know what products are sold here.   
+1 - When a user land on the website, a beautiful hero image welcomes the user. Since the hero image is covered with spices, so user can easily understand spices are sold here.    
+2 - Below the hero image there are four more images that tell the user fresh fruit and vegetables, frozen food and dry and packed food is also sold here.  
+##### b- I want to be able to navigate around the different pages easily.
+1- On the top landing page, there is a navigation bar that makes it easy to navigate   around all the pages.  
+2- The link the of active page become highlighted.   
+#####  c- I want to find the social media links to find out the reputation and fan following of the website.    
+1 - The social media link icons are available on the footer.  
+2 - when a user clicks on an icon, the related social media page opens in a new tab.  
 
-- ##### Returning Visitor Goal
-  * ######  a- As a returning visitor, I want to get more details about the product range and                 services.  
-        1- There are four product pages. By visiting these pages, the user knows the product range. 
-        2- In the welcome paragraph on landing page the shop offers a service to arrange the   customer's desired spice if that spice is not available in Shop.  
-  * ###### b- Is there any special offer?
-         On every product page, information about the current offers are available.
-- #### Frequent User Goal
-  * ###### a- As a Frequent user, I want to know the upcoming sale and special offers.
-         On the home page, information about upcoming special offers is available.
-  * ###### b- I want to know what product has newly arrived and what are their prices. 
-          On every product page, the newly arrived items are highlighted with the price.         
+#### Returning Visitor Goal
+##### a- As a returning visitor, I want to get more details about the product range and services.  
+1 - There are four product pages. By visiting these pages, the user knows the product range.   
+2 - In the welcome paragraph on landing page the shop offers a service to arrange the   customer's desired spice if that spice is not available in Shop.  
+##### b- Is there any special offer?
+On every product page, information about the current offers are available.
+### Frequent User Goal
+##### a- As a Frequent user, I want to know the upcoming sale and special offers.
+On the home page, information about upcoming special offers is available.
+##### b- I want to know what product has newly arrived and what are their prices. 
+ On every product page, the newly arrived items are highlighted with the price. 
+
 ### Further Testing
  To test respnsiveness of the website [Responsivedesignchecker.com](https://responsivedesignchecker.com/) was used. Below are some testing screen shots.    
  <img src="assets/images/test/responsive-test-1.jpg">
  <img src="assets/images/test/Responsive-test-2.jpg">
  <img src="assets/images/test/responsive-test-3.jpg">
 
- - ##### Chrome lighthous Dev. tool used to check the performance.
+ ##### Chrome lighthous Dev. tool used to check the performance.
  <img src="assets/images/test/performance.jpg"> 
 
-- ##### The Website is tested on following browsers Phone sets.
-      Chrom. firefox, Edge and SeaMonkey
-      Samsung A70, Nokia 7Plus, Huawei p30 lite and LG lg3.
+##### The Website is tested on following browsers Phone sets.
+Chrom. firefox, Edge and SeaMonkey  
+Samsung A70, Nokia 7Plus, Huawei p30 lite and LG lg3.
 
-- ##### Known Bugs
-       1- On the home page and on all the product pages. The product link headings 
-          (over the footer bar) are not properly aligned.
-       2- Some time on 4K monitor, if the browser window is not fully opned, 
-          then a white space below the footer bar can be seen.
-       3- On some small phone sets the logo" Spice Shop" pushed to right side.            
+##### Known Bugs
+1 - On the home page and on all the product pages. The product link headings (over the footer bar) are not properly aligned.  
+2 - Some time on 4K monitor, if the browser window is not fully opned, then a white space below the footer bar can be seen.  
+3 - On some small phone sets the logo" Spice Shop" pushed to right side.             
 
   
 ## Deployment
