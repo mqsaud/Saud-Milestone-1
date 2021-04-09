@@ -40,7 +40,7 @@ Upon landing a customer on webpage,
 
 ## Design  
 #### Color Scheme  
-Multiple colors are sue with white background.
+Multiple colors are used with white background.
 
 #### Typography  
 Following fonts are used.  
@@ -48,7 +48,7 @@ Following fonts are used.
 2-Cario for main hedings.
 
 #### Imagery  
-A picture is worth than  thousand words. The website is furnished with many beautiful images specialy the hero image. All the product pages are furnished with many eye catching images related to product-page
+A picture is worth than  thousand words. The website is furnished with many beautiful images specialy the hero image. All the product pages are furnished with many eye catching images related to product-page.
 
 #### Wirefarme
  To view wirefarme please click [here](https://github.com/mqsaud/Saud-Milestone-1)
@@ -78,7 +78,7 @@ A picture is worth than  thousand words. The website is furnished with many beau
     - Adobe Photoshop was used to resize and edit the images for the website.
 
 
-### Test and vaidation 
+## Test and vaidation 
 All html file are validated with no errors by W3C vaidation service.  
 
 During testing some has failed validation test.
@@ -123,7 +123,28 @@ css file validated with no errors by using Jig saw validation service.
        1- On the home page and on all the product pages. The product link headings 
           (over the footer bar) are not properly aligned.
        2- Some time on 4K monitor, if the browser window is not fully opned, 
-          then a white space below the footer bar can be seen.       
+          then a white space below the footer bar can be seen.
+       3- On some small phone sets the logo" Spice Shop" pushed to right side.            
+
+  
+## Deployment
+
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+2. At the top of the Repository (not top of page), locate  the "Settings" Button on the menu.
+3. Click on "Settings" button.
+4. A setting page will appear with an "Option" dropdown menu on left side of the Setting heading.
+5. Click on "Pages" at the bottom of this menu.  .
+6. Under "Source", click the dropdown called "None" and select "Master".
+7. Click on "Save" button.
+8. The page will automatically refresh.
+9. A message with your published site address will appear like,
+" Your site is ready to be published at https://AccountName.github.io/Repository-Name/"
+6. Now the website is published at [GitHub](https://mqsaud.github.io/Saud-Milestone-1/) 
+
 
 
 ### Contents 
