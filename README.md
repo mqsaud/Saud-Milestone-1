@@ -79,11 +79,11 @@ A picture is worth than  thousand words. The website is furnished with many beau
 
 
 ## Test and vaidation 
-All html file are validated with no errors by W3C vaidation service.  
+All html files are validated with no errors by W3C vaidation service.  
 
-During testing some has failed validation test.
+During testing some files has failed validation test.
 <img src="assets/images/test/val-fail.jpg">  
-After resolving the cause of validation failure, all file passed the validation test.
+After resolving the cause of validation failure, all files passed the validation test.
 <img src="assets/images/test/val-pass.jpg">
 css file validated with no errors by using Jig saw validation service.
 
@@ -97,7 +97,7 @@ css file validated with no errors by using Jig saw validation service.
            fresh fruit and vegetables, frozen food and dry and packed food 
            is also sold here.
   * ###### b- I want to be able to navigate around the different pages easily.
-        1- On the top landing page, there is a navigation bar that makes it easy to navigate around all the pages.
+        1- On the top landing page, there is a navigation bar that makes it easy to navigate   around all the pages.
         2- The link the of active page become highlighted.  
   * ######  c- I want to find the social media links to find out the reputation and fan following               of the website.
         1- The social media link icons are available on the footer.
@@ -106,7 +106,7 @@ css file validated with no errors by using Jig saw validation service.
 - ##### Returning Visitor Goal
   * ######  a- As a returning visitor, I want to get more details about the product range and                 services.  
         1- There are four product pages. By visiting these pages, the user knows the product range. 
-        2- In the welcome paragraph on landing page the shop offers a service to arrange the customer's desired spice if that spice is not available in Shop.  
+        2- In the welcome paragraph on landing page the shop offers a service to arrange the   customer's desired spice if that spice is not available in Shop.  
   * ###### b- Is there any special offer?
          On every product page, information about the current offers are available.
 - #### Frequent User Goal
