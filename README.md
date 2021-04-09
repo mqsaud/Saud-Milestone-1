@@ -120,6 +120,9 @@ css file validated with no errors by using Jig saw validation service.
  <img src="assets/images/test/Responsive-test-2.jpg">
  <img src="assets/images/test/responsive-test-3.jpg">
 
+ - ##### Chrome lighthous Dev. tool used to check the performance.
+ <img src="assets/images/test/performance.jpg"> 
+
 - ##### The Website is tested on following browsers Phone sets.
       Chrom. firefox, Edge and SeaMonkey
       Samsung A70, Nokia 7Plus, Huawei p30 lite and LG lg3.
