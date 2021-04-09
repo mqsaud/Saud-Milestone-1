@@ -114,6 +114,11 @@ css file validated with no errors by using Jig saw validation service.
          On the home page, information about upcoming special offers is available.
   * ###### b- I want to know what product has newly arrived and what are their prices. 
           On every product page, the newly arrived items are highlighted with the price.         
+### Further Testing
+ To test respnsiveness of the website [Responsivedesignchecker.com](https://responsivedesignchecker.com/) was used. Below are some testing screen shots.    
+ <img src="assets/images/test/responsive-test-1.jpg">
+ <img src="assets/images/test/Responsive-test-2.jpg">
+ <img src="assets/images/test/responsive-test-3.jpg">
 
 - ##### The Website is tested on following browsers Phone sets.
       Chrom. firefox, Edge and SeaMonkey
@@ -142,7 +147,7 @@ The project was deployed to GitHub Pages using the following steps...
 7. Click on "Save" button.
 8. The page will automatically refresh.
 9. A message with your published site address will appear like,
-" Your site is ready to be published at https://AccountName.github.io/Repository-Name/"
+" Your site is ready to be published at https://Account-Name.github.io/Repository-Name/"
 6. Now the website is published at [GitHub](https://mqsaud.github.io/Saud-Milestone-1/) 
 
 
