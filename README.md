@@ -43,7 +43,7 @@ Upon landing a customer on webpage,
 Multiple colors are sue with white background.
 
 #### Typography  
-Following fonts are sued  
+Following fonts are used.  
 1-Sans-serif as a fallback font.  
 2-Cario for main hedings.
 
