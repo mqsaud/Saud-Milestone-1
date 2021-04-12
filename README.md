@@ -120,7 +120,7 @@ On the home page, information about upcoming special offers is available.
  <img src="assets/images/test/performance.jpg"> 
 
 ##### The Website is tested on following browsers Phone sets.
-Chrom. firefox, Edge and SeaMonkey  
+Chrom. firefox, Edge,Opera and SeaMonkey  
 Samsung A70, Nokia 7Plus, Huawei p30 lite and LG lg3.
 
 ##### Known Bugs
@@ -146,6 +146,47 @@ The project was deployed to GitHub Pages using the following steps...
 9. A message with your published site address will appear like,
 " Your site is ready to be published at https://Account-Name.github.io/Repository-Name/"
 6. Now the website is published at [GitHub](https://mqsaud.github.io/Saud-Milestone-1/) 
+
+### Development Life cycle
+The development life cycle of the project consists of the following steps.  
+1. Concept.
+2. Feasibility and Research
+3. User experience and sketch
+4. Coding 
+5. Testing
+6. Hosting
+7. Future Maintainability
+
+#### 1. Concept
+The Project starts from an Idea or Concept. In this project, the concept of a Spice Shop was selected.
+
+#### 2. Feasibility and Research
+I discussed with my mentor the feasibility of this concept, and he gave an okay signal. Then I did research about the requirements of a spice shop and visit many shops doing the same business.
+
+#### 3. User Experience and sketch
+Using the User Experience guidelines, I draw the sketches of  all pages of the website. I used Balsamiq wireframe software to draw the sketches.
+
+#### 4. Coding
+HTML5 and CSS3 are the main software used to build this project. Bootstrap 4.6 used to give a stylish and professional look to the project. Github and gitpod online platform was used to write and save the project. Gitpod's version control system was used for version control. Microsoft VS Code IDE  built-in gitpod was used for code writing.
+
+#### 5. Testing
+Two methods were adopted to test this project.  
+a. Manual Testing  
+b. Third-Party Test services  
+
+##### a. Manual Testing
+In this method, the website was opened in different web browsers and checked every page, link and button.
+##### b. Third Party Testing services
+W3C validation services were used to validate HTML and CSS files.  
+Chrome Lighthouse Dev tool was used to check the website performance.  
+https://responsivedesignchecker.com/ was used to check the responsiveness of the website.
+
+#### 6. Hosting  
+Github cloud hosting service used to host the website.
+
+#### 7. Future Maintainability
+For future maintainability CSS and all HTML pages are divided into sections. Meaningful names of HTML IDs and CLASSs were chosen to facilitate the developer who may work on this project  in future.
+
 
 
 
