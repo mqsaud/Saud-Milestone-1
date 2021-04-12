@@ -185,7 +185,7 @@ https://responsivedesignchecker.com/ was used to check the responsiveness of the
 Github cloud hosting service used to host the website.
 
 #### 7. Future Maintainability
-For future maintainability CSS and all HTML pages are divided into sections. Meaningful names of HTML IDs and CLASSs were chosen to facilitate the developer who may work on this project  in future.
+For future maintainability CSS and all HTML pages are divided into sections. Meaningful names of HTML IDs and CLASSes were chosen to facilitate the developer who may work on this project  in future.
 
 
 
@@ -198,6 +198,6 @@ All pictures are taken from internet.
  
 
 ### Acknowledgment
-My mentor for his support and feedback. 
-code Institute tutor support
+My mentor for his support and feedback.   
+Code Institute tutor support
 
